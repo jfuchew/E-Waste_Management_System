@@ -90,7 +90,13 @@ Features include:
 ### 3. Run the System
 
 - Start your local server (Apache + MySQL)
-- Go to: http://localhost/nothing_wasted/u-------------------------------------------------------------------------------
+- Go to: http://localhost/nothing_wasted/user/homepage_guest.php
+
+### 4. Login/Signup:
+- All login and registration functionality is handled via: auth.php
+- It supports both admin and user login.
+
+---------------------------------------------------------------------------------
 CREDITS
 --------------------------------------------------------------------------------
 
